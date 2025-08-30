@@ -1,7 +1,6 @@
 # 🆔 NRIC / FIN Validator (Enhanced)
 
 Week 1 Python Challenge Project for Generation Singapore Jr. Data Engineering Programme (JDE07).
-
 The original requirement was just a **simple NRIC validator**.  
 Built an enhanced version with **NRIC/FIN generation, batch processing, and visual analytics** to explore data integrity across different countries.
 
